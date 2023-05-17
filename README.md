@@ -2,7 +2,7 @@ Módulo NODEJS e EXPRESS MIT INFINET 2023
 
 Aluno: Douglas Monteiro de Souza
 
-Professor: Orlando
+Professor: Orlando Fonseca Guilarte
 
 * [ ] Criar API com Node e express
 * [ ] Testar API e implementar com POSTMAN (método GET)
