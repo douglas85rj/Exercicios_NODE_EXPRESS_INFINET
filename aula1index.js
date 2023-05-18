@@ -15,10 +15,10 @@ const server = http.createServer((req, res) => {
         res.setHeader('Content-Type','text/plain')
         res.end('First Server in nodeJS')
       } 
-    else if (pathName === '/orlando') {        
+    else if (pathName === '/douglas') {        
         res.statusCode = 200
         res.setHeader('Content-Type','text/html')
-        res.end('<h2>Welcome Orlando to the NodeJs Course</h2>')
+        res.end('<h2>Welcome to the NodeJs Course</h2>')
       } 
     else if (ext === '.html') {        
         res.statusCode = 200
